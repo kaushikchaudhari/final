@@ -1,2 +1,0 @@
-worker: node bot.js
- - dpl --provider=heroku --app=spacediscord-anime-bot --api-key=374a5f45-339f-4e03-a3af-6418c93c8a8a
